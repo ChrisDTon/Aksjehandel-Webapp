@@ -1,0 +1,10 @@
+body {
+  margin: 0;
+  background-color: #eee !important;
+}
+
+.button-group {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
